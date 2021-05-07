@@ -1,3 +1,20 @@
 body{
-    background-image: url("https://i.ytimg.com/vi/fICs3kyg7Iw/maxresdefault.jpg")
+    background-image: url("https://i.ytimg.com/vi/fICs3kyg7Iw/maxresdefault.jpg");
+    background-color: black
+}
+
+p{
+    background-color: black
+}
+
+h1{
+    background-color: black
+}
+
+ul{
+    background-color: black
+}
+
+li{
+    background-color: black
 }
